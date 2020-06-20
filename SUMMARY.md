@@ -14,4 +14,5 @@
 * [酷Q无法更新/下载](q-and-a/cant-download.md)
 * [CPK文件无法载入](q-and-a/cpk-wen-jian-wu-fa-zai-ru.md)
 * [酷Q的消息处理逻辑](q-and-a/kuqde-xiao-xi-chu-li-luo-ji.md)
+* [如何配置CQ码？](q-and-a/ru-he-pei-zhi-cq-ma.md)
 
