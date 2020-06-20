@@ -139,18 +139,18 @@ description: 让小白开始了解。
 
  这时候我们重新打开酷Q air 的文件夹，你会发现多了一个名为data的文件夹
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
  这里你可能会对上面这些稀奇古怪的东西产生疑问了。  
 我这里对文件目录进行一个讲解
 
 ###  文件目录
 
-```text
+```markup
 H:\DESKTOP\酷Q AIR //酷Q的目录
 │  CQA.exe // 酷Q air的主程序
 │  
-├─app //存放应用的文件夹
+├─app //存放应用的文件夹，我们一会将会在这里存放文件
 │      com.coxxs.music.cpk  //这是一个应用，它的尾缀是.cpk
 │      com.coxxs.start.cpk //也就是说这是个CPK文件
 │      com.coxxs.status.cpk
@@ -169,15 +169,15 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 │      zlib1.dll
 │      
 ├─conf //这里存放着我们的酷Q配置文件，包含我们的卡密文件
-│      Account.cfg  //存放酷Q账号配置文件的地方
-│      CQA.key //酷Q授权认证的key
-│      CQP.cfg //酷Q Pro所需的配置文件，有时候通用air
+│      Account.cfg    //存放酷Q账号配置文件的地方
+│      CQA.key        //酷Q授权认证的key
+│      CQP.cfg     //酷Q Pro所需的配置文件，有时候通用air
 │      
 └─data //应用的配置数据
-    ├─2645963361 //这个是QQ号的文件夹，存放有关账号的信息
-    │      cache.db //存放一些关于群员名称、名片等信息
-    │      eventv2.db //存放一些事件，例如入群审核关键信息
-    │      head.cache //存放快速登录文件，以防频繁导致封号
+    ├─264593361 //这个是QQ号的文件夹，存放有关账号的信息
+    │      cache.db   //存放一些关于群员名称、名片等信息
+    │      eventv2.db   //存放一些事件，例如入群审核关键信息
+    │      head.cache      //存放快速登录文件，以防频繁导致封号
     │      logv2_202006.db //日志文件，每个月都会生成一次
     │      session.dat 
     │      
@@ -190,10 +190,23 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
     │      456917FAA3403CB6901ED45905B4CE08.jpg.cqimg
     │      718BDDFF87B5BD178086695F2DECBA55.jpg.cqimg
     │      // 如你所见，酷Q的图片缓存以.cqimg结尾
+    │      // 如果你想知道怎么发图片，请看下面的链接
     │      
     ├─log //存放旧日志的地方（新酷Q为什么要创建）
     ├─record //存放酷Q语音文件的地方
     ├─show //存放酷Q SHOW 文件的地方
     └─tmp //缓存文件
 ```
+
+{% page-ref page="../q-and-a/ru-he-pei-zhi-cq-ma.md" %}
+
+### 开始下载应用
+
+ 了解完基础目录后，你应该很明白这些文件夹的用途了
+
+ 事不宜迟，我们尝试一下如何下载应用吧！
+
+ 
+
+![](../.gitbook/assets/image%20%2821%29.png)
 
