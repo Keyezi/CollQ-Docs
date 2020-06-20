@@ -139,7 +139,7 @@ description: 让小白开始了解。
 
  这时候我们重新打开酷Q air 的文件夹，你会发现多了一个名为data的文件夹
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
  这里你可能会对上面这些稀奇古怪的东西产生疑问了。  
 我这里对文件目录进行一个讲解
@@ -212,7 +212,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
  到了这一步，你可能急于找插件  
 一个插件文件在应用帖子中可能是这样的：
@@ -223,7 +223,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
  我们尝试下载群管家插件试试手
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ####  下载完毕后，我们进行解压
 
@@ -233,7 +233,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
 得到应用文件后，我们将其放到酷Q 的app目录中，这一点上面已经说过了
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ```markup
 ……
@@ -253,7 +253,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
  因为我们已经不用教程了，这里顺手将教程关一下
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 {% hint style="warning" %}
 不使用的应用请及时关闭，避免造成酷Q处理消息缓慢
@@ -288,6 +288,34 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 ![&#x5E94;&#x7528;&#x65E0;&#x6CD5;&#x8F7D;&#x5165;&#x65F6;&#x7684;&#x63D0;&#x793A;](../.gitbook/assets/image%20%2828%29.png)
 
  这里请看 [应用无法使用?](../q-and-a/ying-yong-wu-fa-shi-yong.md) 然后向相应的插件作者所求帮助。
+
+### 开始使用应用
+
+ 再次回到应用管理页面  
+我们发现，与【爱音乐】不同的是，群管家是有一个菜单的。
+
+我们点开这个菜单，点击【应用设置】  
+当然，这个词是应用作者定义的  
+一般包含【`配置、设置、管理、后台`】这些词就是应用的管理页面入口了
+
+![](../.gitbook/assets/image%20%2829%29.png)
+
+ 点击后，我们发现的确弹出了一个配置窗口  
+这时候,你就会发现弹出了一个窗口
+
+![&#x63D2;&#x4EF6;&#x914D;&#x7F6E;&#x754C;&#x9762;](../.gitbook/assets/image%20%2834%29.png)
+
+ 这里就是群管家的配置页面了  
+因为插件都不同，我这里就不做详细讲解了。
+
+具体你可以询问群管家的作者
+
+> 都让你下载了总不能让你不清楚怎么用吧  
+> 指路：[https://help.tensuu.com/](https://help.tensuu.com/) ——群管家帮助页面
+
+### 结束语
+
+ 
 
 
 
