@@ -139,7 +139,7 @@ description: 让小白开始了解。
 
  这时候我们重新打开酷Q air 的文件夹，你会发现多了一个名为data的文件夹
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
  这里你可能会对上面这些稀奇古怪的东西产生疑问了。  
 我这里对文件目录进行一个讲解
@@ -208,5 +208,86 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
  
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
+ 到了这一步，你可能急于找插件  
+一个插件文件在应用帖子中可能是这样的：
+
+* ![](../.gitbook/assets/image%20%2820%29.png) 
+* ![](../.gitbook/assets/image%20%2823%29.png) 
+* 或者是一个网盘链接
+
+ 我们尝试下载群管家插件试试手
+
+![](../.gitbook/assets/image%20%2834%29.png)
+
+####  下载完毕后，我们进行解压
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+###  安装应用
+
+得到应用文件后，我们将其放到酷Q 的app目录中，这一点上面已经说过了
+
+![](../.gitbook/assets/image%20%2832%29.png)
+
+```markup
+……
+├─app
+│      cn.izoyo.manager.cpk
+│      com.coxxs.music.cpk
+│      com.coxxs.start.cpk
+│      com.coxxs.status.cpk
+│      com.xiaoi.robot.cpk
+│      moe.min.qa.cpk
+……
+```
+
+ 放入插件后，我们这里在应用管理界面里面重载一下应用
+
+![](../.gitbook/assets/image%20%2827%29.png)
+
+ 因为我们已经不用教程了，这里顺手将教程关一下
+
+![](../.gitbook/assets/image%20%2831%29.png)
+
+{% hint style="warning" %}
+不使用的应用请及时关闭，避免造成酷Q处理消息缓慢
+{% endhint %}
+
+ 这里我们载入后看到了我们的群管家应用  
+同样，群管家是一个新应用，默认不会被启动  
+这里我们尝试启用一下应用
+
+![](../.gitbook/assets/image%20%2819%29.png)
+
+ 如图所示，弹出了三个提示框  
+分别是：
+
+* 语音功能提示（酷QPro 安装语音组件后此提示会消失）
+* 大量权限提示
+* 铭感权限提示
+
+ 这里确认一下我们应用所需的权限
+
+{% hint style="info" %}
+请确认应用获取的权限是应用所需的，如果应用获取了并不需要的权限  
+请确认应用可信度后再启用
+
+### 如果应用恶意使用用户账户进行违规操作，请在[这里](https://cqp.cc/b/support)进行举报
+{% endhint %}
+
+ 再回去看上图，右下角确认权限后弹出了一个应用初始化的提示  
+当然，你看到的提示也可能是这样的：  
+
+
+![&#x5E94;&#x7528;&#x65E0;&#x6CD5;&#x8F7D;&#x5165;&#x65F6;&#x7684;&#x63D0;&#x793A;](../.gitbook/assets/image%20%2828%29.png)
+
+ 这里请看 [应用无法使用?](../q-and-a/ying-yong-wu-fa-shi-yong.md) 然后向相应的插件作者所求帮助。
+
+
 
