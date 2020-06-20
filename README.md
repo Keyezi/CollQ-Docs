@@ -11,3 +11,12 @@ description: 不骗你，右上角搜索真的很好用
 
 欢迎你在右上角的Edit on Github上面提交Pull request来进行文档补充。
 
+_**本文档基于CC BY-SA 4.0发布,   
+转载请注明原作者Ym\_gg以及Github页面。**_
+
+### 入门教程
+
+{% page-ref page="start-to-use/im-noob.md" %}
+
+
+
