@@ -15,7 +15,7 @@
 
 ## 常见问题 <a id="q-and-a"></a>
 
-* [酷Q air 与 Pro 之间的区别](q-and-a/kuqair-yu-pro-zhi-jian-de-qu-bie.md)
+* [酷Q Air 与 Pro 之间的区别](q-and-a/kuqair-yu-pro-zhi-jian-de-qu-bie.md)
 * [酷Q无法更新/下载](q-and-a/cant-download.md)
 * [CPK文件无法载入](q-and-a/cpk-cant-load.md)
 * [酷Q的消息处理逻辑](q-and-a/priority/README.md)
