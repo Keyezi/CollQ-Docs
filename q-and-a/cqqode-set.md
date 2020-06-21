@@ -56,7 +56,7 @@ CQ码的结构为 `[CQ:function,key=value,...]`
  既然要发送图片，我们就需要发送的图片 🖼 、酷Q Pro 👨🏫   
 还有一个我们用来进行消息发送的插件 🔌 plugin\(
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 我这里准备了一张很有寓意的图片。 ![](../.gitbook/assets/llu6-2z6ltvuf2v-txu55gn.png) 
 
@@ -69,11 +69,11 @@ CQ码的结构为 `[CQ:function,key=value,...]`
 
  把我们的图片丢进去
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
  为了不出什么岔子，我们把这里的文件名改成我们想要的文件名：
 
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 {% hint style="info" %}
 这里记得记住我们的文件名:**`悠扬女装照.png`**
@@ -81,7 +81,7 @@ CQ码的结构为 `[CQ:function,key=value,...]`
 
  这里我们打开一个可以编辑发送文本的插件，我用的是 **语言库**
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
    **你看到这段消息由两个部分组成：**
 
@@ -96,11 +96,11 @@ Emm……
  其中，`CQ:image`指定了这是一个**图片CQ码**。  
 `file=悠扬女装照.png`则指定我们的图片名称。
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 我们在群内测试一下：
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 #### 可以看到，图片已经成功发送了。
 
@@ -116,7 +116,7 @@ Emm……
 这里我们新建一个文件夹，名称自己取  
 然后顺手把图片丢进去，如图所示
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
  这时候我们的CQ码得这么~~`屑`~~写
 
@@ -133,7 +133,7 @@ Emm……
 
 像上面一样， 我们这里找到`record`文件夹，把我们要发送的语音放进去~
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 同样的，我们也选用语言库来进行设置
 
@@ -162,7 +162,7 @@ CQ:image -> CQ:record //声明这是一个语音CQ码
 
 ### 魔法语音
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
  如题所示，你可以看到前面的语音标识变成了膜法语音  
 这里我们仅需稍作修改:

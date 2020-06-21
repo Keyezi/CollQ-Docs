@@ -39,7 +39,7 @@ description: 你一个闲聊凭啥跟群管抢着处理消息？
 
  那么问题来了，遇到同样优先级的应用B 和 应用C，哪个会优先被酷Q处理呢？
 
-应用B: ![](../../.gitbook/assets/image%20%2871%29.png) 应用C: ![](../../.gitbook/assets/image%20%2886%29.png) 
+应用B: ![](../../.gitbook/assets/image%20%2880%29.png) 应用C: ![](../../.gitbook/assets/image%20%28120%29.png) 
 
 假设：
 
@@ -59,11 +59,11 @@ description: 你一个闲聊凭啥跟群管抢着处理消息？
 
  酷Q提供了以下可以修改优先度的事件
 
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 
  我们选择事件-选择应用-优先级编辑框内进行编辑，最后点选保存并关闭即可
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 {% hint style="info" %}
 当然，如果一个应用没有提供私聊/群聊开关等禁用功能  
