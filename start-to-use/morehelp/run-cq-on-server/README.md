@@ -163,6 +163,10 @@ description: 服务器上面跑酷Q或许更稳？仅需3瓶可乐钱，绿色�
 
  酷Q依然在保持正常的运行！
 
+{% hint style="info" %}
+酷Q Pro迁移可能导致需要重新输入授权码
+{% endhint %}
+
 {% hint style="success" %}
 ### 记得定期续费，不然你的服务器就完犊子了
 
