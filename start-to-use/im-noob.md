@@ -290,7 +290,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 
 ![&#x5E94;&#x7528;&#x65E0;&#x6CD5;&#x8F7D;&#x5165;&#x65F6;&#x7684;&#x63D0;&#x793A;](../.gitbook/assets/image%20%2828%29.png)
 
- 这里请看 [应用无法使用?](../q-and-a/ying-yong-wu-fa-shi-yong.md) 然后向相应的插件作者所求帮助。
+ 这里请看 [应用无法使用?](../q-and-a/app-cant-use.md) 然后向相应的插件作者所求帮助。
 
 ### 开始使用应用
 

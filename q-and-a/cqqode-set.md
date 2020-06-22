@@ -6,7 +6,7 @@ description: 某些功能是需要Pro的……
 
 ## 前提
 
-请查看[酷Q air 与 Pro 之间的区别](kuqair-yu-pro-zhi-jian-de-qu-bie.md)，明确你的机器人支持哪些CQ码。
+请查看[酷Q air 与 Pro 之间的区别](difference-bt-cqap.md)，明确你的机器人支持哪些CQ码。
 
 官方文档：[https://docs.cqp.im/manual/cqcode/](https://docs.cqp.im/manual/cqcode/)
 
