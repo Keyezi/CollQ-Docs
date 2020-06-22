@@ -15,6 +15,14 @@ description: 不骗你，右上角搜索真的很好用
 
  官方文档：[https://docs.cqp.im/](https://docs.cqp.im/)
 
+## 无法打开页面？
+
+刷新试试 
+
+
+
+
+
 _**本文档基于CC BY-SA 4.0发布,   
 转载请注明原作者Ym\_gg以及Github页面。**_
 
