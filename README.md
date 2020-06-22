@@ -11,7 +11,8 @@ description: 不骗你，右上角搜索真的很好用
 
 鄙人文笔文辞文采文化水平有限，有不足之处请见谅。
 
-欢迎你在右上角的Edit on Github上面提交Pull request来进行文档补充。
+欢迎你在右上角的Edit on Github上面提交Pull request来进行文档补充。  
+如果你认为文档有/无帮助 ，页面最右下角有反馈按钮，您选择后可以给我最直接的反馈
 
  官方文档：[https://docs.cqp.im/](https://docs.cqp.im/)
 
