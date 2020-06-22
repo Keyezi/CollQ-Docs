@@ -23,5 +23,5 @@
   * [被封号?](q-and-a/priority/be-banned.md)
 * [\[CQ码\]如何发送图片语音表情?](q-and-a/cqqode-set.md)
 * [应用无法使用？](q-and-a/ying-yong-wu-fa-shi-yong.md)
-* [消息无法发送？](q-and-a/sendmsg-error.md)
+* [消息无法发送？操作无法执行？](q-and-a/sendmsg-error.md)
 
