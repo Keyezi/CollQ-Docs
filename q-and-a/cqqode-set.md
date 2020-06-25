@@ -199,7 +199,7 @@ Emm……
 
 不同手机显示Emoji的效果都不一样
 
-![&#x201C;&#x5FAE;&#x7B11;&#x201D; &#x5728;&#x4E0D;&#x540C;APP&#x3001;&#x7CFB;&#x7EDF;&#x4E2D;&#x7684;&#x533A;&#x522B;&#x1F601;](../.gitbook/assets/image%20%28150%29.png)
+![&#x201C;&#x5FAE;&#x7B11;&#x201D; &#x5728;&#x4E0D;&#x540C;APP&#x3001;&#x7CFB;&#x7EDF;&#x4E2D;&#x7684;&#x533A;&#x522B;&#x1F601;](../.gitbook/assets/image%20%28153%29.png)
 
  但是因为某些原因，我们是无法把这种表情粘贴到酷Q当中的  
 \(因为易语言和某些语言的轮子不支持Unicode）  
@@ -211,9 +211,9 @@ Emm……
 
 右键酷悬浮窗，点击日志，就可以看到我们的酷Q日志了
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28160%29.png)
 
-![&#x9177;Q&#x65E5;&#x5FD7;&#x754C;&#x9762;](../.gitbook/assets/image%20%28163%29.png)
+![&#x9177;Q&#x65E5;&#x5FD7;&#x754C;&#x9762;](../.gitbook/assets/image%20%28169%29.png)
 
  这里就是酷Q日志界面了，酷Q收到、发送的消息都会在这里显示
 
@@ -222,17 +222,17 @@ Emm……
 
 ### 查看日志信息
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
  我们这里与机器人进行了一个点歌操作，让我们看看酷Q日志里面是怎么显示的
 
-![&#x770B;&#x56FE;](../.gitbook/assets/image%20%28148%29.png)
+![&#x770B;&#x56FE;](../.gitbook/assets/image%20%28150%29.png)
 
 ### 获取CQ码
 
  了解完具体用途后，我们来发送几个表情给机器人试试
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 ![](../.gitbook/assets/image%20%28146%29.png)
 
@@ -243,9 +243,9 @@ Emm……
 这里就获取到我们所需的CQ码了。例如`[CQ:……]`这样子的就是CQ码  
 这时候我们把这一段消息发回去试试
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28151%29.png)
 
  这时候，群内就会正常显示我们的表情。
 
