@@ -23,7 +23,7 @@ description: 不就是空气和大佬的区别吗（误
 | 特殊协议修改 | 不支持 | 支持 |
 | 应用模块隔离 | 不支持 | 支持 |
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 ## 酷Q pro跟插件有关联吗？
 
