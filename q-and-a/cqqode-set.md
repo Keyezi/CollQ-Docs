@@ -211,9 +211,9 @@ Emm……
 
 右键酷悬浮窗，点击日志，就可以看到我们的酷Q日志了
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
-![&#x9177;Q&#x65E5;&#x5FD7;&#x754C;&#x9762;](../.gitbook/assets/image%20%28170%29.png)
+![&#x9177;Q&#x65E5;&#x5FD7;&#x754C;&#x9762;](../.gitbook/assets/image%20%28172%29.png)
 
  这里就是酷Q日志界面了，酷Q收到、发送的消息都会在这里显示
 
@@ -222,7 +222,7 @@ Emm……
 
 ### 查看日志信息
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
  我们这里与机器人进行了一个点歌操作，让我们看看酷Q日志里面是怎么显示的
 
@@ -232,7 +232,7 @@ Emm……
 
  了解完具体用途后，我们来发送几个表情给机器人试试
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/image%20%28168%29.png)
 
 ![](../.gitbook/assets/image%20%28146%29.png)
 
