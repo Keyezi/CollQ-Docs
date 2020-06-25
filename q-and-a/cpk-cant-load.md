@@ -37,7 +37,7 @@ description: BALABLALA一大堆的问题
 * 杀毒软件判断加载的CPK文件内有病毒 所以进行了加载阻止 解决方案：[https://cqp.cc/t/49295](https://cqp.cc/t/49295)
 * 你的电脑系统本身缺少部分系统必要的DLL运行文件 请使用正版Windows10\(server 2019\)
 
-##  \#106 文件名称错误
+##   \# -106 文件名称错误
 
 ![](../.gitbook/assets/image%20%2858%29.png)
 
@@ -53,8 +53,8 @@ description: BALABLALA一大堆的问题
 
 ###  找到对应的错误文件，进行修改
 
-> 现在的应用名：moe.qin.qaaaaaaa.cpk  
-> 应改为的应用名：moe.qin.qa.cpk
+> 现在的应用名：`moe.qin.qaaaaaaa.cpk`  
+> _**应改为的应用名：`moe.qin.qa.cpk`**_
 
 ![](../.gitbook/assets/image%20%2861%29.png)
 

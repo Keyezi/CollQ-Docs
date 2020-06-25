@@ -273,7 +273,7 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
 ![](../.gitbook/assets/image%20%2832%29.png)
 
 {% hint style="warning" %}
-不使用的应用请及时关闭，避免造成酷Q处理消息缓慢
+### 不使用的应用请及时关闭，避免造成酷Q处理消息缓慢
 {% endhint %}
 
  这里我们载入后看到了我们的群管家应用  
@@ -285,9 +285,9 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
  如图所示，弹出了三个提示框  
 分别是：
 
-* 语音功能提示（酷QPro 安装语音组件后此提示会消失）
+* 语音功能提示（[酷Q Pro 安装语音组件后此提示会消失](morehelp/upgrade-to-cqp.md#shi-yong-kuqyu-yin-zu-jian)）
 * 大量权限提示
-* 铭感权限提示
+* 敏感权限提示
 
  这里确认一下我们应用所需的权限
 
