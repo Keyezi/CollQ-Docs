@@ -1,10 +1,10 @@
 ---
-description: 12块钱是一个门槛，也是一个捐助。
+description: 12块钱是一个门槛，也是一个使酷Q变得更好的捐助。
 ---
 
 # 升级到酷Q Pro
 
-![&#x4E00;&#x5F20;&#x56FE;](../../.gitbook/assets/iww63m6-v-719grb78-g9g.jpg)
+![](../../.gitbook/assets/iww63m6-v-719grb78-g9g.jpg)
 
  这张图是我在2017时刚进酷Q时做的  
 酷Q Pro的捐助很便宜，也就四瓶可乐钱一个月
@@ -29,8 +29,7 @@ description: 12块钱是一个门槛，也是一个捐助。
 然后我们将鼠标移到卡号上，显示完整的卡号，如下所示  
 `CQISB-XXXXX-AAAAA-FFFFF-QQQQQ`
 
-保存好卡号，卡号不可更改，酷Q Pro仅能用作你一人授权。  
-
+保存好卡号，卡号不可更改，酷Q Pro仅能用作你一人授权。
 
 ## 迁移到酷Q Pro
 
