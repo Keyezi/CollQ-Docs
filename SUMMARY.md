@@ -15,7 +15,8 @@
 
 ## 常见问题 <a id="q-and-a"></a>
 
-* [【常见问题汇总】](q-and-a/urlqaa.md)
+* [【常见问题汇总】](q-and-a/urlqaa/README.md)
+  * [临时用来存放问题的地方](q-and-a/urlqaa/lin-shi-yong-lai-cun-fang-wen-ti-de-di-fang.md)
 * [酷Q Air 与 Pro 之间的区别](q-and-a/difference-bt-cqap.md)
 * [酷Q无法更新/下载](q-and-a/cant-download.md)
 * [CPK文件无法载入](q-and-a/cpk-cant-load.md)
