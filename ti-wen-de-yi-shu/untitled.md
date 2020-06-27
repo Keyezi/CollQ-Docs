@@ -26,7 +26,7 @@ Copyleft 2001 by D.H.Grand\(nOBODY/Ginux\), 2010 by Gasolin, 2015 by Ryan Wu
 
 ## 目录
 
- 如果需要快速跳转，请在“内容”里面选择
+ 如果需要快速跳转，请在右边“内容”里面选择
 
 * [声明](untitled.md#声明)
 * [简介](untitled.md#简介)
