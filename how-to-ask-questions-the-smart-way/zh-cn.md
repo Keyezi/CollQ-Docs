@@ -4,7 +4,7 @@ description: '（转载自github）https://github.com/ryanhanwu/How-To-Ask-Quest
 
 # \[zh-CN\]提问的艺术
 
-## 酷Q百科声明
+### 酷Q百科声明
 
 本文转载自[github](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
@@ -13,7 +13,7 @@ description: '（转载自github）https://github.com/ryanhanwu/How-To-Ask-Quest
 
 ## [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
-**How To Ask Questions The Smart Way**
+### **How To Ask Questions The Smart Way**
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
