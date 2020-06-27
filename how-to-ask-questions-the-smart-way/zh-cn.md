@@ -8,7 +8,7 @@ description: '（转载自github）https://github.com/ryanhanwu/How-To-Ask-Quest
 
 本文转载自[github](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 
- 此文档部分内容不能完全应用到酷Q交际中。  
+ 此文档部分内容不能完全应用到酷Q社区、各大交流群中。  
 例如你没有电脑基础，就完全是你自己的问题了。
 
 ## [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
