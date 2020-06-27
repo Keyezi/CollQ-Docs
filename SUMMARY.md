@@ -25,7 +25,7 @@
 * [应用无法使用？](q-and-a/app-cant-use.md)
 * [消息无法发送？操作无法执行？](q-and-a/sendmsg-error.md)
 
-## 提问的艺术
+## 提问的艺术 <a id="how-to-ask-questions-the-smart-way"></a>
 
-* [提问的艺术](ti-wen-de-yi-shu/untitled.md)
+* [提问的艺术](how-to-ask-questions-the-smart-way/zh-cn.md)
 
