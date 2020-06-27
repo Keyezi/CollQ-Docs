@@ -27,5 +27,5 @@
 
 ## 提问的艺术 <a id="how-to-ask-questions-the-smart-way"></a>
 
-* [提问的艺术](how-to-ask-questions-the-smart-way/zh-cn.md)
+* [\[zh-CN\]提问的艺术](how-to-ask-questions-the-smart-way/zh-cn.md)
 

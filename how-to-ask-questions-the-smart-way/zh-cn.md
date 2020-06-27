@@ -2,7 +2,7 @@
 description: '（转载自github）https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way'
 ---
 
-# 提问的艺术
+# \[zh-CN\]提问的艺术
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
