@@ -39,7 +39,13 @@ description: 你一个闲聊凭啥跟群管抢着处理消息？
 
 ####  那么问题来了，遇到同样优先级的应用B 和 应用C，哪个会优先被酷Q处理呢？
 
-应用B: ![](../../.gitbook/assets/image%20%2880%29.png) 应用C: ![](../../.gitbook/assets/image%20%28120%29.png) 
+应用B: 
+
+![image.png](https://i.loli.net/2020/06/29/HguKLapJ1eyU8b6.png)
+
+ 应用C:
+
+![](https://i.loli.net/2020/06/29/Dinxqaf5NEopMuK.png)
 
 假设：
 

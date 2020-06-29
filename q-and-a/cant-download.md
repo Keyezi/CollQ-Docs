@@ -47,11 +47,13 @@ description: 你找别人也不一定有用。
 
 #### 然后找到我们被损坏的酷Q所在的文件夹，粘贴我们刚刚复制的所有文件
 
-1. ![](../.gitbook/assets/image%20%2866%29.png) 
-2. ![](../.gitbook/assets/image%20%2846%29.png) 
-3. ![](../.gitbook/assets/image%20%2855%29.png)
+1.  ![image.png](https://i.loli.net/2020/06/29/MlzWEeFQDm5183H.png)
+2. ![image.png](https://i.loli.net/2020/06/29/DcFoyCjLUhSsw1Q.png)
+3. ![image.png](https://i.loli.net/2020/06/29/xb7IsJYKgSal4B9.png)
 
    这时候再次打开酷Q 就可以正常使用了
+
+![](../.gitbook/assets/image%20%28191%29.png)
 
 ![](../.gitbook/assets/image%20%2856%29.png)
 
