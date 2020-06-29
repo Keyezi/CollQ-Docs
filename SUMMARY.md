@@ -6,11 +6,11 @@
 
 * [入门教程](start-to-use/im-noob.md)
 * [详细帮助](start-to-use/morehelp/README.md)
-  * [如何在酷Q社区正确交流?](start-to-use/morehelp/communication-in-cqc.md)
   * [在服务器上运行酷Q](start-to-use/morehelp/run-cq-on-server/README.md)
     * [如何共用服务器？](start-to-use/morehelp/run-cq-on-server/share-server.md)
     * [更高级的操作……](start-to-use/morehelp/run-cq-on-server/be-pro-on-server.md)
   * [升级到酷Q Pro](start-to-use/morehelp/upgrade-to-cqp.md)
+  * [如何在酷Q社区正确交流?](start-to-use/morehelp/communication-in-cqc.md)
   * [注册QQ](start-to-use/morehelp/sign-up-qq.md)
 
 ## 常见问题 <a id="q-and-a"></a>
