@@ -41,9 +41,9 @@ description: 你一个闲聊凭啥跟群管抢着处理消息？
 
 应用B: 
 
-![image.png](https://i.loli.net/2020/06/29/HguKLapJ1eyU8b6.png)
+![](https://i.loli.net/2020/06/29/HguKLapJ1eyU8b6.png)
 
- 应用C:
+应用C:
 
 ![](https://i.loli.net/2020/06/29/Dinxqaf5NEopMuK.png)
 
