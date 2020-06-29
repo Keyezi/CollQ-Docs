@@ -21,7 +21,7 @@
 {% hint style="info" %}
 如果自动输入密码了 有个删除的按钮 删掉重连就行 
 
-![](../../../.gitbook/assets/image%20%2888%29.png) 
+![image.png](https://i.loli.net/2020/06/29/PJKu5EdXy81DMrs.png)
 {% endhint %}
 
 然后退出来 打开我们的远程桌面连接
