@@ -121,7 +121,7 @@ _**当然，网上也有一些私人经营的服务商在卖“`挂机宝`”**_
 
 首先下载一下我们的”Rd Client“应用（又称 Microsoft Remote Desktop）  
 苹果就叫微软远程桌面，它应该看起来是这个样子的： \(左旧右新\)  
-![](../../../.gitbook/assets/img_20200621_205809.jpg) ![](../../../.gitbook/assets/img_20200621_205838.jpg) 
+![image.png](https://i.loli.net/2020/06/29/2RvY7G8OtmTMwdh.png)![image.png](https://i.loli.net/2020/06/29/hQTHd4eZXxyiGMW.png)
 
 ####  为了方便你下载，我提供一下天翼网盘的链接（不限速，得登录）
 
@@ -130,18 +130,18 @@ _**当然，网上也有一些私人经营的服务商在卖“`挂机宝`”**_
 然后我这里直接放截图加说明，因为安卓是英文，所以顺手翻译一下\(  
 我英文不好，欢迎你到gytpub上面发iuuse纠正我。
 
-![](../../../.gitbook/assets/image%20%28115%29.png)  ![](../../../.gitbook/assets/image%20%28102%29.png) 
+![image.png](https://i.loli.net/2020/06/29/TqFdQk6wgoEe7lV.png)![image.png](https://i.loli.net/2020/06/29/tNLgvqx59VJzp2n.png)
 
 这里跟电脑差不多，同样是在上面添加服务，不过安卓貌似更好玩一点。  
 按下图设置，跟电脑大同小异，安卓提供多个账户添加。
 
- ![](../../../.gitbook/assets/image%20%28100%29.png) ![](../../../.gitbook/assets/image%20%2895%29.png) 
+![image.png](https://i.loli.net/2020/06/29/RmOLAvzoxSTrVp1.png) ![image.png](https://i.loli.net/2020/06/29/cMmxpnwCjFTy6t1.png)
 
 ![](../../../.gitbook/assets/image%20%28117%29.png) 
 
 ![&#x6B63;&#x5728;&#x8FDE;&#x63A5;&#x670D;&#x52A1;&#x5668;&#x4E3B;&#x673A;](../../../.gitbook/assets/image%20%2876%29.png)
 
-![&#x670D;&#x52A1;&#x5668;&#x83DC;&#x5355;](../../../.gitbook/assets/image%20%2898%29.png)
+![image.png](https://i.loli.net/2020/06/29/9lhBAQYTbuzRILo.png)
 
 连接好以后就能用了。  
 具体操作可以在[更高级的操作……](be-pro-on-server.md)中查看
