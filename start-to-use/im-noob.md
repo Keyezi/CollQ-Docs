@@ -239,8 +239,8 @@ H:\DESKTOP\酷Q AIR //酷Q的目录
  到了这一步，你可能急于找插件  
 一个插件文件在应用帖子中可能是这样的：
 
-* ![](../.gitbook/assets/image%20%2820%29.png) 
-* ![](../.gitbook/assets/image%20%2823%29.png) 
+* ![image.png](https://i.loli.net/2020/06/29/yMBeNOIGrnpjiP2.png)
+* ![image.png](https://i.loli.net/2020/06/29/CFR459H2mgpUceX.png)
 * 或者是一个**网盘链接**
 
  我们尝试下载群管家插件试试手
