@@ -81,7 +81,7 @@ description: 12块钱是一个门槛，也是一个使酷Q变得更好的捐助�
 
 如果有提示重复直接覆盖即可
 
-![](../../.gitbook/assets/image%20%28142%29.png) ![](../../.gitbook/assets/image%20%28138%29.png) 
+![image.png](https://i.loli.net/2020/06/29/PEkOpGhUuwvdmFo.png)![image.png](https://i.loli.net/2020/06/29/RKPYZzaONj7DyqU.png)
 
  安装完毕后，别忘了彻底重启一下酷Q
 
