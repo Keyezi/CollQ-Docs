@@ -19,9 +19,9 @@ description: 服务器上面跑酷Q或许更稳？仅需3瓶可乐钱，绿色�
 
 另外推荐几款便宜值得买的服务器：
 
-* [阿里云学生机](https://promotion.aliyun.com/ntms/act/campus2018.html?spm=5176.14145661.J_3598540520.ace-channel-latest-activity-card.607a1875YtHeWj&accounttraceid=4479725cda894f09a6b950fd89c06989jhof&userCode=d9rvjzs3&tag=share_component&share_source=copy_link)\(1H2G 1M-5M\) 9.5 ￥/月 如果需要强劲CPU性能，请选择”云服务器ECS“ 如果想顺手搭建个MC服务器，请选择”轻量应用服务器“，带宽更高。 但是轻量无法开通25端口，无法使用windows 2019镜像，无法备份……限制多 tip：阿里云学生机12-24岁的用户可以购买，最高续费到24岁
+* [阿里云学生机](https://promotion.aliyun.com/ntms/act/campus2018.html?spm=5176.14145661.J_3598540520.ace-channel-latest-activity-card.607a1875YtHeWj&accounttraceid=4479725cda894f09a6b950fd89c06989jhof&userCode=d9rvjzs3&tag=share_component&share_source=copy_link)\(1H2G 1M-5M\) 9.5 ￥/月  如果需要强劲CPU性能，请选择”云服务器ECS“  如果想顺手搭建个MC服务器，请选择”轻量应用服务器“，带宽更高。 但是轻量无法开通25端口，无法使用windows 2019镜像，无法备份……限制多 tip：阿里云学生机12-24岁的用户可以购买，最高续费到24岁
 * [腾讯云学生机](https://cloud.tencent.com/act/campus)（1H2G1M）10 ￥/月 仅仅只可续费3次，所以说最高能用4年
-* [腾讯云新用户优惠](https://github.com/YmggDEV/CollQ-Docs/tree/4f690f31a2ebfcc3a3ca01f5c0e3c79110438f3a/act/cps/redirect?redirect=1025&cps_key=ec145f753e30cfee1b7e7becb154b0fb&from=console/README.md) 性价比基本上跟上面的一样 hmm,老用户表示很难受 新用户建议买2H4G5M 1年-3年的配置，老用户没有这些优惠 如果你作为新用户购买了1H2G，以后新用户优惠就没有了
+* [腾讯云新用户优惠](https://github.com/YmggDEV/CollQ-Docs/tree/4f690f31a2ebfcc3a3ca01f5c0e3c79110438f3a/act/cps/redirect?redirect=1025&cps_key=ec145f753e30cfee1b7e7becb154b0fb&from=console/README.md) 性价比基本上跟上面的一样  hmm,老用户表示很难受  新用户建议买2H4G5M 1年-3年的配置，老用户没有这些优惠  如果你作为新用户购买了1H2G，以后新用户优惠就没有了
 * `偷偷告诉你：淘宝也能购买上面的服务器，而且价格 有折扣`
 
 {% hint style="danger" %}
